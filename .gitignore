@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyt
+# Virtual environments
+venv/
+.env/
+.env
+.venv/
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+# IDE files
+.vscode/
+.idea/
+# OS files
+.DS_Store
+Thumbs.db
+# Data and model files
+*.pkl
+*.h5
+*.joblib
